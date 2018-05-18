@@ -1,11 +1,9 @@
-# Surface defect datasets #
-
-Resherchers of surface defect often suffer from the lack of the corresponding dataset.  
+Researchers of surface defect often suffer from the lack of the corresponding dataset.  
 Thanks to the data provider's generous support, we can collect these datasets. 
 
-You can download some of these datasets which are modified by us, they are in the zip files in this project. Others datasets you can vist the links we provide.
+You can download some of these datasets which are modified by us, they are in the zip files in this project. Others datasets you can visit the links we provide.
 
-**The image datasets are only for academic research, no commercial purposes is allowed. If you use any datasets, please cite the paper of the corresponding  provider!!!**
+**The image datasets are only for academic research, no commercial purposes are allowed. If you use any datasets, please cite the paper of the corresponding  provider!!!**
 
 There are several different surfaces, each surface contains one or several defects. For image segmentation, object detection, saliency detection, classification, etc.
 
@@ -19,19 +17,19 @@ There are several different surfaces, each surface contains one or several defec
 ![](cracks.png)
 
 
-Cracks on bridge(left) and crak on the road surface.
+Cracks on the bridge(left) and crack on the road surface.
 
 
 
--  Bridge cracks. There are 2688 images of  bridge crack without pixel level ground truth. From the athours  "Liangfu Li Weifei Ma  Li Li Xiaoxiao Gao".  Files can be reached by visiting [https://github.com/maweifei/Bridge_Crack_Image_Data](https://github.com/maweifei/Bridge_Crack_Image_Data).
+-  Bridge cracks. There are 2688 images of bridge crack without pixel-level ground truth. From the authors "Liangfu Li Weifei Ma  Li Li Xiaoxiao Gao".  Files can be reached by visiting [https://github.com/maweifei/Bridge_Crack_Image_Data](https://github.com/maweifei/Bridge_Crack_Image_Data).
 
--  Crack on road surface. From Shi, Yong and Cui, Limeng and Qi, Zhiquan and Meng, Fan and Chen, Zhensong. Original dataset can be reached at [https://github.com/cuilimeng/CrackForest-dataset](https://github.com/cuilimeng/CrackForest-dataset). **We extract the image files of the pixel level ground truth.**
+-  Crack on road surface. From Shi, Yong, and Cui, Limeng and Qi, Zhiquan and Meng, Fan and Chen, Zhensong. Original dataset can be reached at [https://github.com/cuilimeng/CrackForest-dataset](https://github.com/cuilimeng/CrackForest-dataset). **We extract the image files of the pixel level ground truth.**
 
 -----------
 
 # Steel surface defects #
 
-These Datasets from Kechen Song, Northeastern University (NEU). You can visted they Home page [http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html](http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html) to download 1800 images, examples like figure below:
+These Datasets from Kechen Song, Northeastern University (NEU). You can visit they Homepage [http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html](http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html) to download 1800 images, examples of the figure below:
 
 ![](NEU1.png)
 
@@ -43,12 +41,12 @@ These Datasets from Kechen Song, Northeastern University (NEU). You can visted t
 
 
 
-- Their "Micro surface defect database" and "Oil pollution defect database" are labeled with  pixel level **ground truth by us**. 
+- Their "Micro surface defect database" and "Oil pollution defect database" are labeled with pixel level **ground truth by us**. 
 
 -------
 # Weakly Supervised Learning for Industrial Optical Inspection #
-You can download these 10 datasets by vist [https://hci.iwr.uni-heidelberg.de/node/3616](https://hci.iwr.uni-heidelberg.de/node/3616)
-Samples like figure below:
+You can download these 10 datasets by visit [https://hci.iwr.uni-heidelberg.de/node/3616](https://hci.iwr.uni-heidelberg.de/node/3616)
+Samples like the figure below:
 
 ![](DAGM.png)
 
@@ -59,7 +57,7 @@ And the magnetic tile dataset by ourselves. Can be downloaded from [https://gith
 ![](MT.png)
 
 
-**If you have any difficult in access these datasets,** contact me by [huangyibin2014@ia.ac.cn](huangyibin2014@ia.ac.cn)
+**If you have any difficulty to access these datasets,** contact me by [huangyibin2014@ia.ac.cn](huangyibin2014@ia.ac.cn)
 
 
 
