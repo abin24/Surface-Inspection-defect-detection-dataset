@@ -29,19 +29,23 @@ Cracks on the bridge(left) and crack on the road surface.
 
 # Steel surface defects #
 
-These Datasets from Kechen Song, Northeastern University (NEU). You can visit they Homepage [http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html](http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html) to download 1800 images, examples of the figure below:
+These Datasets from Kechen Song, Northeastern University (NEU). You can visit they Homepage [http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html](http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html) to download 1800 images.
+
+- There are something wrong with the original website of this dataset now(2019-03-20). There is a pdf file named "NEU_surface_defect.pdf" in this repo, and google drive link of this dataset is given in the pdf f
+examples of the figure below:
 
 ![](NEU1.png)
 
 
 
 - these 6 class NEU surface defect dataset has only the image level label, no pixel level Ground truth.
+ile. 
 
 ![](NEU2.png)
 
 
 
-- Their "Micro surface defect database" and "Oil pollution defect database" are labeled with pixel level **ground truth by us**. 
+- Their "Micro surface defect database" and "Oil pollution defect database" are labeled with pixel level **ground truth by us**. You can clone this repo and download these file.
 
 -------
 # Weakly Supervised Learning for Industrial Optical Inspection #
