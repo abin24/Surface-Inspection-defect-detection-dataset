@@ -29,10 +29,11 @@ Cracks on the bridge(left) and crack on the road surface.
 
 # Steel surface defects #
 
-These Datasets from Kechen Song, Northeastern University (NEU). You can visit they Homepage [http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html](http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html) to download 1800 images.
+These Datasets from Kechen Song, Northeastern University (NEU). You can visit their Homepage [http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html](http://faculty.neu.edu.cn/me/songkc/Vision-based_SIS_Steel.html) to download 1800 images.
 
-- There are something wrong with the original website of this dataset now(2019-03-20). There is a pdf file named "NEU_surface_defect.pdf" in this repo, and google drive link of this dataset is given in the pdf f
-examples of the figure below:
+- There is something wrong with the original website of this dataset now(2019-03-20). There is a pdf file named ["NEU_surface_defect.pdf"](https://github.com/abin24/Surface-Inspection-defect-detection-dataset/blob/master/NEU_surface_defect_database.pdf) in this repo, and google drive link of this dataset is given in the pdf file.
+
+-examples of this dataset are shown in the figure below:
 
 ![](NEU1.png)
 
@@ -45,7 +46,7 @@ ile.
 
 
 
-- Their "Micro surface defect database" and "Oil pollution defect database" are labeled with pixel level **ground truth by us**. You can clone this repo and download these file.
+- Their "Micro surface defect database" and "Oil pollution defect database" are labeled with pixel level **ground truth by us**. You can clone this repo and download this file.
 
 -------
 # Weakly Supervised Learning for Industrial Optical Inspection #
@@ -62,15 +63,6 @@ And the magnetic tile dataset by ourselves. Can be downloaded from [https://gith
 
 
 **If you have any difficulty to access these datasets,** contact me by [huangyibin2014@ia.ac.cn](huangyibin2014@ia.ac.cn)
-
-
-
-
-
-
-
-
-
 
 
 
