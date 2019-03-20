@@ -39,8 +39,8 @@ These Datasets from Kechen Song, Northeastern University (NEU). You can visit th
 
 
 
-- these 6 class NEU surface defect dataset has only the image level label, no pixel level Ground truth.
-ile. 
+- these 6 class NEU surface defect dataset has only the image level label, without pixel level groundtruth.
+ 
 
 ![](NEU2.png)
 
