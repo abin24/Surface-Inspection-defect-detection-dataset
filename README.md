@@ -21,7 +21,7 @@ Magnetic tile dataset by ourselves. Can be downloaded from [https://github.com/a
 
 
 
-# Some datasets we have used before#
+# Some datasets we have used before # 
 these three datasets are used in our paper [A Compact Convolutional Neural Network for Surface Defect Inspection](https://www.mdpi.com/1424-8220/20/7/1974)
 
 [Texture dataset  https://github.com/abin24/Textures-Dataset]( https://github.com/abin24/Textures-Dataset)
