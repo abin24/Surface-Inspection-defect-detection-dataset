@@ -3,7 +3,7 @@ Thanks to the data provider's generous support, we can collect these datasets.
 
 You can download some of these datasets which are modified by us, they are in the zip files in this project. Others datasets you can visit the links we provide.
 
-**The image datasets are only for academic research, no commercial purposes are allowed. If you use any datasets, please cite the paper of the corresponding  provider!!!**
+**The image datasets are only for academic research, no commercial purposes are allowed. If you use any datasets, please cite the paper of the corresponding  provider**
 
 There are several different surfaces, each surface contains one or several defects. For image segmentation, object detection, saliency detection, classification, etc.
 
@@ -14,7 +14,7 @@ There are several different surfaces, each surface contains one or several defec
 
 # Magnetic tile dataset #
 ----
-Magnetic tile dataset by ourselves. Can be downloaded from [https://github.com/abin24/Magnetic-tile-defect-datasets.](https://github.com/abin24/Magnetic-tile-defect-datasets.)
+Magnetic tile dataset by ourselves. Can be downloaded from [https://github.com/abin24/Magnetic-tile-defect-datasets.](https://github.com/abin24/Magnetic-tile-defect-datasets.)  which was used in our paper "Surface defect saliency of magnetic tile", the paper can be reach by [here](https://link.springer.com/article/10.1007/s00371-018-1588-5) or [here](https://ieeexplore.ieee.org/document/8560423)
 
 ![](MT.png)
 
