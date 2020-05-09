@@ -64,14 +64,16 @@ And the magnetic tile dataset by ourselves. Can be downloaded from [https://gith
 
 **If you have any difficulty to access these datasets,** contact me by [huangyibin2014@ia.ac.cn](huangyibin2014@ia.ac.cn) or [727948828@qq.com]
 
-#Some other datasets#
+# Some other datasets #
+these three datasets are used in our paper [A Compact Convolutional Neural Network for Surface Defect Inspection](https://www.mdpi.com/1424-8220/20/7/1974)
+
 [Texture dataset  https://github.com/abin24/Textures-Dataset]( https://github.com/abin24/Textures-Dataset)
 
 [RSDDs dataset  http://icn.bjtu.edu.cn/visint/resources/RSDDs.aspx](http://icn.bjtu.edu.cn/visint/resources/RSDDs.aspx)
 
 [wood defect dataset http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html](http://www.ee.oulu.fi/~olli/Projects/Lumber.Grading.html)
 
-these three datasets are used in our paper [A Compact Convolutional Neural Network for Surface Defect Inspection](https://www.mdpi.com/1424-8220/20/7/1974)
+
  
   
 	
